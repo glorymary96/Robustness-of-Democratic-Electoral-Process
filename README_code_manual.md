@@ -66,8 +66,9 @@ Generates a random permutation of the vector x.
 
 INPUT
 1. x (vector)
+   
 OUTPUT
-2. p (vector)
+1. p (vector)
 
 <a id="Nat-opn-2"></a>
 ### Nat_opn_2(mu, Delta, sd, num_ppl, R=50)
@@ -108,7 +109,7 @@ INPUT
 
 OUTPUT
 1. x (matrix): random opinion
-2. 
+   
 <a id="random-generation"></a>
 ### Random_generation(num_ppl, p)
 Generates 'num_ppl' random opinions with p parties.
