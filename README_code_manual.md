@@ -1,11 +1,12 @@
 # Manual for the codes 
 
-## Functions in Model_execution.py
-1. [outcome(x0, epsilon, W)](#outcome)
-2. [type_natural_opinion](#type-natural-opinion)
+## Functions in [Model_execution.py](#Model_execution)
 
-## Nat_opn_generator.py
-1. [admissible_summits](#admissible-summits)
+1. [outcome](#outcome)
+2. [type_natural_opinion](#type_natural_opinion)
+
+## Functions in [Nat_opn_generator.py](#Nat_opn_generator)
+1. [admissible_summits](#admissible_summits)
 3. [gen_rand_perm_vect](#gen-rand-perm-vect)
 4. [Nat_opn_2](#Nat-opn-2)
 5. [rand_opinion](#rand-opinion)
@@ -15,14 +16,14 @@
 9. [slide_summit_vec](#slide-summit-vec)
 10. [unit_simplex_arb](#unit-simplex-arb)
 11. [vertices](#vertices)
+    
 
-
-## Detailed description of the functions
-
-## 'Model_execution.py'
+<a id="Model_execution"></a>
+## Detailed description of the functions : 'Model_execution.py'
 Running this script runs an example of the opinion formation simulation with choice of parameters.
 
-### outcome(x0, epsilon, W)
+<a id="outcome"></a>
+### outcome(x0,epsilon,W)
 Computes the final opinions from the natural opinion x0, the communication distance epsilon, and the influence W.
 
 INPUT
@@ -33,6 +34,7 @@ INPUT
 OUTPUT
 1. y (vector, matrix): final opinions
 
+<a id="type_natural_opinion"></a>
 ### type_natural_opinion(Num_ppl, Num_party, NAT_TYPE)
 Generates the natural opinions by calling the appropriate function. If the opinion is "Bigaussian", the mean, Delta, sd parameters have to be specified beforehand in the local environment. If Num_party is 2, NAT_TYPE can be 'Bigaussian' or 'Uniform', otherwise it can only be 'Uniform'. 'Uniform' draws the opinions from the appropriate simplex described in the manuscript's SI. 
 
@@ -44,9 +46,11 @@ INPUT
 OUTPUT
 1. x0 (vector, matrix): natural opinions
 
-## 'Nat_opn_generator.py'
+<a id="Nat_opn_generator"></a>
+## Detailed description of the functions :'Nat_opn_generator.py'
 To generate the natural opinions depending on the number of parties in the electoral system.
 
+<a id="admissible-summits"></a>
 ### admissible_summits(p)
 Defines the vertices of the admissible opinion space.
 
@@ -55,6 +59,7 @@ INPUT
 OUTPUT
 2. V (matrix): vertices of the admissible opinion space
 
+<a id="gen-rand-perm-vect"></a>
 ### gen_rand_perm_vect(x)
 Generates a random permutation of the vector x.
 
@@ -63,6 +68,7 @@ INPUT
 OUTPUT
 2. p (vector)
 
+<a id="Nat-opn-2"></a>
 ### Nat_opn_2(mu, Delta, sd, num_ppl, R=50)
 Generates gaussian and bigaussian random natural opinion for 2 parties
 
@@ -76,7 +82,7 @@ INPUT
 OUTPUT
 1. x0 (matrix): array of natural opinions (num_ppl,2)
 
-
+<a id="rand-opinion"></a>
 ### rand_opinion(p, V)
 Draws one random opinion uniformly in the admissible space. The of vertices is already given in 'V'. One can get 'V' by using the function 'admissible_summits'. 
 
@@ -89,7 +95,7 @@ OUTPUT
 
 1. x (matrix): random opinion
 
-
+<a id="rand-opinion-pos"></a>
 ### rand_opinion_pos(p, V, k)
 Same as 'rand_opinion' with a fixed party k.
 
@@ -101,7 +107,8 @@ INPUT
 
 OUTPUT
 1. x (matrix): random opinion
-
+2. 
+<a id="random-generation"></a>
 ### Random_generation(num_ppl, p)
 Generates 'num_ppl' random opinions with p parties.
 
@@ -113,6 +120,7 @@ OUTPUT
 
 1. X (matrix): random opinions
 
+<a id="random-generation-pos"></a>
 ### Random_generation_pos(num_ppl, p, k)
 Generates 'num_ppl' random opinions in party k among p parties.
 
@@ -124,7 +132,7 @@ INPUT
 OUTPUT
 1. X (matrix): random opinions
 
-
+<a id="slide-summit-vec"></a>
 ### slide_summit_vec(x, a)
 Slides the point x (typically in the simplex) towards the barycenter of the unitary p-simplex. For a = 1, the summit does not move, and for a = 0, the summit reaches the barycenter.
 
@@ -137,7 +145,7 @@ OUTPUT
 
 1. y (vector): moved point
 
-
+<a id="unit-simplex-arb"></a>
 ### unit_simplex_arb(S)
 Draws a random point uniformly from an arbitrary simplex, defined by the columns of S. Follows the idea presented in doi.org/10.13140/RG.2.1.3807.6968.
 
@@ -149,7 +157,7 @@ OUTPUT
 
 1. x (vector): random point in S
 
-
+<a id="vertices"></a>
 ### vertices(p)
 Generates the list of vertices of interest in the unitary simplex with 'p' vertices.
 
