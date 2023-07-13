@@ -1,0 +1,436 @@
+STATE,Districts,CD_NUM,STATE_FP,ID,Republican,Democratic
+Alabama,Alabama 1,01,01,0101,63.2,36.8
+Alabama,Alabama 2,02,01,0102,61.5,38.5
+Alabama,Alabama 3,03,01,0103,63.8,36.2
+Alabama,Alabama 4,04,01,0104,79.9,20.1
+Alabama,Alabama 5,05,01,0105,61.1,38.9
+Alabama,Alabama 6,06,01,0106,69.2,30.8
+Alabama,Alabama 7,07,01,0107,0.0,100.0
+Alaska,Alaska ,00,02,0200,76.65,23.35
+Arizona,Arizona 1,01,04,0401,46.2,53.8
+Arizona,Arizona 2,02,04,0402,45.3,54.7
+Arizona,Arizona 3,03,04,0403,36.1,63.9
+Arizona,Arizona 4,04,04,0404,68.85,31.15
+Arizona,Arizona 5,05,04,0405,59.4,40.6
+Arizona,Arizona 6,06,04,0406,55.2,44.8
+Arizona,Arizona 7,07,04,0407,7.100000000000001,92.9
+Arizona,Arizona 8,08,04,0408,55.5,44.5
+Arizona,Arizona 9,09,04,0409,38.9,61.1
+Arkansas,Arkansas 1,01,05,0501,70.05000000000001,29.95
+Arkansas,Arkansas 2,02,05,0502,53.15,46.849999999999994
+Arkansas,Arkansas 3,03,05,0503,66.1,33.9
+Arkansas,Arkansas 4,04,05,0504,67.75,32.25
+California,California 1,01,06,0601,54.9,45.1
+California,California 2,02,06,0602,23.0,77.0
+California,California 3,03,06,0603,41.9,58.1
+California,California 4,04,06,0604,54.1,45.9
+California,California 5,05,06,0605,10.549999999999997,89.45
+California,California 6,06,06,0606,9.799999999999997,90.2
+California,California 7,07,06,0607,45.0,55.0
+California,California 8,08,06,0608,80.0,20.0
+California,California 9,09,06,0609,43.5,56.5
+California,California 10,10,06,0610,47.7,52.3
+California,California 11,11,06,0611,25.9,74.1
+California,California 12,12,06,0612,13.2,86.8
+California,California 13,13,06,0613,5.799999999999997,94.2
+California,California 14,14,06,0614,20.8,79.2
+California,California 15,15,06,0615,27.0,73.0
+California,California 16,16,06,0616,42.5,57.5
+California,California 17,17,06,0617,24.7,75.3
+California,California 18,18,06,0618,25.5,74.5
+California,California 19,19,06,0619,26.2,73.8
+California,California 20,20,06,0620,9.299999999999997,90.7
+California,California 21,21,06,0621,49.6,50.4
+California,California 22,22,06,0622,52.7,47.3
+California,California 23,23,06,0623,63.7,36.3
+California,California 24,24,06,0624,41.4,58.6
+California,California 25,25,06,0625,45.6,54.4
+California,California 26,26,06,0626,38.1,61.9
+California,California 27,27,06,0627,10.399999999999999,89.6
+California,California 28,28,06,0628,21.6,78.4
+California,California 29,29,06,0629,19.4,80.6
+California,California 30,30,06,0630,26.6,73.4
+California,California 31,31,06,0631,41.3,58.7
+California,California 32,32,06,0632,31.2,68.8
+California,California 33,33,06,0633,30.0,70.0
+California,California 34,34,06,0634,13.75,86.25
+California,California 35,35,06,0635,30.6,69.4
+California,California 36,36,06,0636,41.0,59.0
+California,California 37,37,06,0637,10.9,89.1
+California,California 38,38,06,0638,31.1,68.9
+California,California 39,39,06,0639,48.4,51.6
+California,California 40,40,06,0640,11.350000000000001,88.65
+California,California 41,41,06,0641,34.9,65.1
+California,California 42,42,06,0642,56.5,43.5
+California,California 43,43,06,0643,22.3,77.7
+California,California 44,44,06,0644,15.850000000000001,84.15
+California,California 45,45,06,0645,47.9,52.1
+California,California 46,46,06,0646,30.9,69.1
+California,California 47,47,06,0647,35.1,64.9
+California,California 48,48,06,0648,46.4,53.6
+California,California 49,49,06,0649,43.6,56.4
+California,California 50,50,06,0650,51.7,48.3
+California,California 51,51,06,0651,28.8,71.2
+California,California 52,52,06,0652,36.2,63.8
+California,California 53,53,06,0653,30.9,69.1
+Colorado,Colorado 1,01,08,0801,24.6,75.4
+Colorado,Colorado 2,02,08,0802,36.65,63.349999999999994
+Colorado,Colorado 3,03,08,0803,53.95,46.050000000000004
+Colorado,Colorado 4,04,08,0804,60.6,39.4
+Colorado,Colorado 5,05,08,0805,58.85,41.15
+Colorado,Colorado 6,06,08,0806,44.4,55.6
+Colorado,Colorado 7,07,08,0807,37.5,62.5
+Connecticut,Connecticut 1,01,09,0901,35.55,64.44999999999999
+Connecticut,Connecticut 2,02,09,0902,36.6,63.400000000000006
+Connecticut,Connecticut 3,03,09,0903,35.4,64.6
+Connecticut,Connecticut 4,04,09,0904,38.8,61.2
+Connecticut,Connecticut 5,05,09,0905,44.1,55.9
+Delaware,Delaware ,00,10,1000,35.5,64.5
+Florida,Florida 1,01,12,1201,67.1,32.9
+Florida,Florida 2,02,12,1202,67.4,32.6
+Florida,Florida 3,03,12,1203,57.6,42.4
+Florida,Florida 4,04,12,1204,66.45,33.55
+Florida,Florida 5,05,12,1205,33.2,66.8
+Florida,Florida 6,06,12,1206,56.3,43.7
+Florida,Florida 7,07,12,1207,42.3,57.7
+Florida,Florida 8,08,12,1208,60.5,39.5
+Florida,Florida 9,09,12,1209,42.0,58.0
+Florida,Florida 10,10,12,1210,0.0,100.0
+Florida,Florida 11,11,12,1211,65.2,34.8
+Florida,Florida 12,12,12,1212,59.199999999999996,40.8
+Florida,Florida 13,13,12,1213,42.4,57.6
+Florida,Florida 14,14,12,1214,0.0,100.0
+Florida,Florida 15,15,12,1215,53.0,47.0
+Florida,Florida 16,16,12,1216,54.6,45.4
+Florida,Florida 17,17,12,1217,62.3,37.7
+Florida,Florida 18,18,12,1218,54.3,45.7
+Florida,Florida 19,19,12,1219,62.3,37.7
+Florida,Florida 20,20,12,1220,0.0,100.0
+Florida,Florida 21,21,12,1221,0.0,100.0
+Florida,Florida 22,22,12,1222,38.0,62.0
+Florida,Florida 23,23,12,1223,38.75,61.25
+Florida,Florida 24,24,12,1224,0.0,100.0
+Florida,Florida 25,25,12,1225,60.5,39.5
+Florida,Florida 26,26,12,1226,49.1,50.9
+Florida,Florida 27,27,12,1227,47.0,53.0
+Georgia,Georgia 1,01,13,1301,57.7,42.3
+Georgia,Georgia 2,02,13,1302,40.4,59.6
+Georgia,Georgia 3,03,13,1303,65.5,34.5
+Georgia,Georgia 4,04,13,1304,21.2,78.8
+Georgia,Georgia 5,05,13,1305,0.0,100.0
+Georgia,Georgia 6,06,13,1306,49.5,50.5
+Georgia,Georgia 7,07,13,1307,50.07,49.93
+Georgia,Georgia 8,08,13,1308,100.0,0.0
+Georgia,Georgia 9,09,13,1309,79.5,20.5
+Georgia,Georgia 10,10,13,1310,62.9,37.1
+Georgia,Georgia 11,11,13,1311,61.8,38.2
+Georgia,Georgia 12,12,13,1312,59.5,40.5
+Georgia,Georgia 13,13,13,1313,23.8,76.2
+Georgia,Georgia 14,14,13,1314,76.5,23.5
+Hawaii,Hawaii 1,01,15,1501,25.000000000000007,75.0
+Hawaii,Hawaii 2,02,15,1502,22.6,77.4
+Idaho,Idaho 1,01,16,1601,66.0,34.0
+Idaho,Idaho 2,02,16,1602,60.7,39.3
+Illinois,Illinois 1,01,17,1701,23.150000000000002,76.85
+Illinois,Illinois 2,02,17,1702,18.9,81.1
+Illinois,Illinois 3,03,17,1703,26.2,73.8
+Illinois,Illinois 4,04,17,1704,13.4,86.6
+Illinois,Illinois 5,05,17,1705,23.3,76.7
+Illinois,Illinois 6,06,17,1706,46.4,53.6
+Illinois,Illinois 7,07,17,1707,12.4,87.6
+Illinois,Illinois 8,08,17,1708,34.0,66.0
+Illinois,Illinois 9,09,17,1709,26.5,73.5
+Illinois,Illinois 10,10,17,1710,34.4,65.6
+Illinois,Illinois 11,11,17,1711,36.2,63.8
+Illinois,Illinois 12,12,17,1712,53.1,46.9
+Illinois,Illinois 13,13,17,1713,50.4,49.6
+Illinois,Illinois 14,14,17,1714,47.5,52.5
+Illinois,Illinois 15,15,17,1715,70.9,29.1
+Illinois,Illinois 16,16,17,1716,59.1,40.9
+Illinois,Illinois 17,17,17,1717,37.9,62.1
+Illinois,Illinois 18,18,17,1718,67.2,32.8
+Indiana,Indiana 1,01,18,1801,34.9,65.1
+Indiana,Indiana 2,02,18,1802,54.8,45.2
+Indiana,Indiana 3,03,18,1803,64.7,35.3
+Indiana,Indiana 4,04,18,1804,64.1,35.9
+Indiana,Indiana 5,05,18,1805,56.8,43.2
+Indiana,Indiana 6,06,18,1806,65.45,34.550000000000004
+Indiana,Indiana 7,07,18,1807,35.1,64.9
+Indiana,Indiana 8,08,18,1808,64.4,35.6
+Indiana,Indiana 9,09,18,1809,56.5,43.5
+Iowa,Iowa 1,01,19,1901,47.449999999999996,52.55
+Iowa,Iowa 2,02,19,1902,43.9,56.099999999999994
+Iowa,Iowa 3,03,19,1903,48.95,51.05
+Iowa,Iowa 4,04,19,1904,51.699999999999996,48.3
+Kansas,Kansas 1,01,20,2001,68.1,31.9
+Kansas,Kansas 2,02,20,2002,50.4,49.599999999999994
+Kansas,Kansas 3,03,20,2003,45.15,54.85
+Kansas,Kansas 4,04,20,2004,59.4,40.6
+Kentucky,Kentucky 1,01,21,2101,68.6,31.4
+Kentucky,Kentucky 2,02,21,2102,67.8,32.199999999999996
+Kentucky,Kentucky 3,03,21,2103,37.25,62.75
+Kentucky,Kentucky 4,04,21,2104,63.8,36.199999999999996
+Kentucky,Kentucky 5,05,21,2105,78.9,21.1
+Kentucky,Kentucky 6,06,21,2106,51.6,48.4
+Louisiana,Louisiana 1,01,22,2201,77.55,22.449999999999996
+Louisiana,Louisiana 2,02,22,2202,9.700000000000003,90.3
+Louisiana,Louisiana 3,03,22,2203,68.95,31.05
+Louisiana,Louisiana 4,04,22,2204,65.3,34.699999999999996
+Louisiana,Louisiana 5,05,22,2205,68.25,31.75
+Louisiana,Louisiana 6,06,22,2206,74.5,25.5
+Maine,Maine 1,01,23,2301,36.85,63.150000000000006
+Maine,Maine 2,02,23,2302,50.35,49.65
+Maryland,Maryland 1,01,24,2401,60.95,39.050000000000004
+Maryland,Maryland 2,02,24,2402,32.3,67.69999999999999
+Maryland,Maryland 3,03,24,2403,29.55,70.45
+Maryland,Maryland 4,04,24,2404,20.9,79.1
+Maryland,Maryland 5,05,24,2405,28.35,71.65
+Maryland,Maryland 6,06,24,2406,39.5,60.5
+Maryland,Maryland 7,07,24,2407,22.400000000000002,77.6
+Maryland,Maryland 8,08,24,2408,31.05,68.95
+Massachusetts,Massachusetts 1,01,25,2501,0.0,100.0
+Massachusetts,Massachusetts 2,02,25,2502,32.8,67.2
+Massachusetts,Massachusetts 3,03,25,2503,35.75,64.25
+Massachusetts,Massachusetts 4,04,25,2504,0.0,100.0
+Massachusetts,Massachusetts 5,05,25,2505,24.1,75.9
+Massachusetts,Massachusetts 6,06,25,2506,33.1,66.9
+Massachusetts,Massachusetts 7,07,25,2507,0.0,100.0
+Massachusetts,Massachusetts 8,08,25,2508,0.0,100.0
+Massachusetts,Massachusetts 9,09,25,2509,40.6,59.4
+Michigan,Michigan 1,01,26,2601,56.3,43.7
+Michigan,Michigan 2,02,26,2602,56.15,43.85
+Michigan,Michigan 3,03,26,2603,55.6,44.400000000000006
+Michigan,Michigan 4,04,26,2604,62.6,37.4
+Michigan,Michigan 5,05,26,2605,38.199999999999996,61.8
+Michigan,Michigan 6,06,26,2606,52.25,47.75
+Michigan,Michigan 7,07,26,2607,53.8,46.2
+Michigan,Michigan 8,08,26,2608,48.099999999999994,51.9
+Michigan,Michigan 9,09,26,2609,38.599999999999994,61.4
+Michigan,Michigan 10,10,26,2610,62.65,37.35
+Michigan,Michigan 11,11,26,2611,46.7,53.3
+Michigan,Michigan 12,12,26,2612,30.4,69.6
+Michigan,Michigan 13,13,26,2613,7.700000000000003,92.3
+Michigan,Michigan 14,14,26,2614,18.2,81.80000000000001
+Minnesota,Minnesota 1,01,27,2701,50.2,49.8
+Minnesota,Minnesota 2,02,27,2702,47.2,52.8
+Minnesota,Minnesota 3,03,27,2703,44.3,55.7
+Minnesota,Minnesota 4,04,27,2704,31.900000000000002,68.1
+Minnesota,Minnesota 5,05,27,2705,21.8,78.2
+Minnesota,Minnesota 6,06,27,2706,61.2,38.8
+Minnesota,Minnesota 7,07,27,2707,47.9,52.1
+Minnesota,Minnesota 8,08,27,2708,52.75,47.25
+Mississippi,Mississippi 1,01,28,2801,67.25,32.74999999999999
+Mississippi,Mississippi 2,02,28,2802,14.100000000000001,85.9
+Mississippi,Mississippi 3,03,28,2803,62.8,37.2
+Mississippi,Mississippi 4,04,28,2804,68.75,31.249999999999996
+Missouri,Missouri 1,01,29,2901,18.3,81.69999999999999
+Missouri,Missouri 2,02,29,2902,52.0,48.0
+Missouri,Missouri 3,03,29,2903,66.15,33.85
+Missouri,Missouri 4,04,29,2904,66.05,33.95
+Missouri,Missouri 5,05,29,2905,36.9,63.1
+Missouri,Missouri 6,06,29,2906,66.7,33.3
+Missouri,Missouri 7,07,29,2907,68.05,31.949999999999996
+Missouri,Missouri 8,08,29,2908,74.2,25.799999999999997
+Montana,Montana ,00,30,3000,52.35,47.650000000000006
+Nebraska,Nebraska 1,01,31,3101,60.4,39.6
+Nebraska,Nebraska 2,02,31,3102,51.0,49.0
+Nebraska,Nebraska 3,03,31,3103,76.7,23.3
+Nevada,Nevada 1,01,32,3201,32.35,67.65
+Nevada,Nevada 2,02,32,3202,58.2,41.8
+Nevada,Nevada 3,03,32,3203,45.45,54.550000000000004
+Nevada,Nevada 4,04,32,3204,45.900000000000006,54.1
+New Hampshire,New Hampshire 1,01,33,3301,45.7,54.300000000000004
+New Hampshire,New Hampshire 2,02,33,3302,43.3,56.699999999999996
+New Jersey,New Jersey 1,01,34,3401,34.449999999999996,65.55000000000001
+New Jersey,New Jersey 2,02,34,3402,46.150000000000006,53.85
+New Jersey,New Jersey 3,03,34,3403,49.35,50.65
+New Jersey,New Jersey 4,04,34,3404,56.15,43.85
+New Jersey,New Jersey 5,05,34,3405,43.15,56.85
+New Jersey,New Jersey 6,06,34,3406,36.4,63.6
+New Jersey,New Jersey 7,07,34,3407,47.5,52.5
+New Jersey,New Jersey 8,08,34,3408,20.3,79.69999999999999
+New Jersey,New Jersey 9,09,34,3409,29.300000000000004,70.7
+New Jersey,New Jersey 10,10,34,3410,11.250000000000005,88.75
+New Jersey,New Jersey 11,11,34,3411,42.65,57.349999999999994
+New Jersey,New Jersey 12,12,34,3412,31.3,68.7
+New Mexico,New Mexico 1,01,35,3501,38.599999999999994,61.4
+New Mexico,New Mexico 2,02,35,3502,49.1,50.9
+New Mexico,New Mexico 3,03,35,3503,33.900000000000006,66.1
+New York,New York 1,01,36,3601,52.05,47.949999999999996
+New York,New York 2,02,36,3602,53.1,46.9
+New York,New York 3,03,36,3603,41.0,59.0
+New York,New York 4,04,36,3604,38.7,61.3
+New York,New York 5,05,36,3605,0.0,100.0
+New York,New York 6,06,36,3606,4.549999999999997,95.45
+New York,New York 7,07,36,3607,3.299999999999997,96.7
+New York,New York 8,08,36,3608,2.8999999999999986,97.1
+New York,New York 9,09,36,3609,10.500000000000004,89.5
+New York,New York 10,10,36,3610,17.9,82.1
+New York,New York 11,11,36,3611,46.800000000000004,53.2
+New York,New York 12,12,36,3612,12.85,87.15
+New York,New York 13,13,36,3613,5.4,94.6
+New York,New York 14,14,36,3614,17.700000000000003,82.30000000000001
+New York,New York 15,15,36,3615,4.0,96.0
+New York,New York 16,16,36,3616,0.0,100.0
+New York,New York 17,17,36,3617,6.0,94.0
+New York,New York 18,18,36,3618,44.5,55.5
+New York,New York 19,19,36,3619,47.400000000000006,52.6
+New York,New York 20,20,36,3620,33.5,66.5
+New York,New York 21,21,36,3621,56.85,43.15
+New York,New York 22,22,36,3622,49.1,50.9
+New York,New York 23,23,36,3623,54.2,45.8
+New York,New York 24,24,36,3624,52.6,47.4
+New York,New York 25,25,36,3625,41.0,59.0
+New York,New York 26,26,36,3626,26.7,73.3
+New York,New York 27,27,36,3627,50.15,49.849999999999994
+North Carolina,North Carolina 1,01,37,3701,30.2,69.8
+North Carolina,North Carolina 2,02,37,3702,52.75,47.25
+North Carolina,North Carolina 3,03,37,3703,100.0,0.0
+North Carolina,North Carolina 4,04,37,3704,25.799999999999997,74.2
+North Carolina,North Carolina 5,05,37,3705,57.0,43.0
+North Carolina,North Carolina 6,06,37,3706,56.5,43.5
+North Carolina,North Carolina 7,07,37,3707,56.35,43.65
+North Carolina,North Carolina 8,08,37,3708,55.3,44.7
+North Carolina,North Carolina 9,09,37,3709,50.2,49.800000000000004
+North Carolina,North Carolina 10,10,37,3710,59.3,40.7
+North Carolina,North Carolina 11,11,37,3711,60.25,39.75
+North Carolina,North Carolina 12,12,37,3712,26.9,73.1
+North Carolina,North Carolina 13,13,37,3713,53.0,47.0
+North Dakota,North Dakota ,00,38,3800,62.349999999999994,37.65
+Ohio,Ohio 1,01,39,3901,52.2,47.800000000000004
+Ohio,Ohio 2,02,39,3902,58.199999999999996,41.8
+Ohio,Ohio 3,03,39,3903,26.4,73.6
+Ohio,Ohio 4,04,39,3904,65.3,34.7
+Ohio,Ohio 5,05,39,3905,63.599999999999994,36.4
+Ohio,Ohio 6,06,39,3906,69.3,30.7
+Ohio,Ohio 7,07,39,3907,58.7,41.3
+Ohio,Ohio 8,08,39,3908,66.6,33.4
+Ohio,Ohio 9,09,39,3909,32.2,67.8
+Ohio,Ohio 10,10,39,3910,56.85,43.150000000000006
+Ohio,Ohio 11,11,39,3911,17.8,82.2
+Ohio,Ohio 12,12,39,3912,52.1,47.900000000000006
+Ohio,Ohio 13,13,39,3913,39.0,61.0
+Ohio,Ohio 14,14,39,3914,55.2,44.8
+Ohio,Ohio 15,15,39,3915,59.3,40.7
+Ohio,Ohio 16,16,39,3916,56.7,43.3
+Oklahoma,Oklahoma 1,01,40,4001,59.3,40.7
+Oklahoma,Oklahoma 2,02,40,4002,67.45,32.550000000000004
+Oklahoma,Oklahoma 3,03,40,4003,73.9,26.1
+Oklahoma,Oklahoma 4,04,40,4004,65.05000000000001,34.95
+Oklahoma,Oklahoma 5,05,40,4005,49.3,50.7
+Oregon,Oregon 1,01,41,4101,34.199999999999996,65.8
+Oregon,Oregon 2,02,41,4102,58.45,41.550000000000004
+Oregon,Oregon 3,03,41,4103,23.6,76.4
+Oregon,Oregon 4,04,41,4104,42.449999999999996,57.55
+Oregon,Oregon 5,05,41,4105,43.4,56.6
+Pennsylvania,Pennsylvania 1,01,42,4201,51.3,48.7
+Pennsylvania,Pennsylvania 2,02,42,4202,21.0,79.0
+Pennsylvania,Pennsylvania 3,03,42,4203,6.6,93.4
+Pennsylvania,Pennsylvania 4,04,42,4204,36.5,63.5
+Pennsylvania,Pennsylvania 5,05,42,4205,34.8,65.2
+Pennsylvania,Pennsylvania 6,06,42,4206,41.1,58.9
+Pennsylvania,Pennsylvania 7,07,42,4207,45.0,55.0
+Pennsylvania,Pennsylvania 8,08,42,4208,45.4,54.6
+Pennsylvania,Pennsylvania 9,09,42,4209,59.7,40.3
+Pennsylvania,Pennsylvania 10,10,42,4210,51.3,48.7
+Pennsylvania,Pennsylvania 11,11,42,4211,59.0,41.0
+Pennsylvania,Pennsylvania 12,12,42,4212,66.0,34.0
+Pennsylvania,Pennsylvania 13,13,42,4213,70.5,29.5
+Pennsylvania,Pennsylvania 14,14,42,4214,57.9,42.1
+Pennsylvania,Pennsylvania 15,15,42,4215,67.8,32.2
+Pennsylvania,Pennsylvania 16,16,42,4216,52.15,47.849999999999994
+Pennsylvania,Pennsylvania 17,17,42,4217,43.7,56.3
+Pennsylvania,Pennsylvania 18,18,42,4218,0.0,100.0
+Rhode Island,Rhode Island 1,01,44,4401,33.1,66.9
+Rhode Island,Rhode Island 2,02,44,4402,36.4,63.6
+South Carolina,South Carolina 1,01,45,4501,49.3,50.7
+South Carolina,South Carolina 2,02,45,4502,56.9,43.1
+South Carolina,South Carolina 3,03,45,4503,68.4,31.6
+South Carolina,South Carolina 4,04,45,4504,61.5,38.5
+South Carolina,South Carolina 5,05,45,4505,57.800000000000004,42.2
+South Carolina,South Carolina 6,06,45,4506,29.05,70.95
+South Carolina,South Carolina 7,07,45,4507,59.6,40.4
+South Dakota,South Dakota ,00,46,4600,62.15,37.85
+Tennessee,Tennessee 1,01,47,4701,78.05,21.950000000000003
+Tennessee,Tennessee 2,02,47,4702,66.4,33.6
+Tennessee,Tennessee 3,03,47,4703,64.6,35.4
+Tennessee,Tennessee 4,04,47,4704,64.9,35.1
+Tennessee,Tennessee 5,05,47,4705,32.2,67.8
+Tennessee,Tennessee 6,06,47,4706,70.6,29.400000000000002
+Tennessee,Tennessee 7,07,47,4707,67.4,32.6
+Tennessee,Tennessee 8,08,47,4708,68.8,31.199999999999996
+Tennessee,Tennessee 9,09,47,4709,19.599999999999998,80.4
+Texas,Texas 1,01,48,4801,73.0,27.000000000000004
+Texas,Texas 2,02,48,4802,53.599999999999994,46.4
+Texas,Texas 3,03,48,4803,55.0,45.0
+Texas,Texas 4,04,48,4804,76.35,23.65
+Texas,Texas 5,05,48,4805,62.4,37.6
+Texas,Texas 6,06,48,4806,53.85,46.15
+Texas,Texas 7,07,48,4807,47.5,52.5
+Texas,Texas 8,08,48,4808,74.25,25.749999999999993
+Texas,Texas 9,09,48,4809,5.450000000000003,94.55
+Texas,Texas 10,10,48,4810,52.15,47.849999999999994
+Texas,Texas 11,11,48,4811,80.85,19.15
+Texas,Texas 12,12,48,4812,65.2,34.800000000000004
+Texas,Texas 13,13,48,4813,82.3,17.699999999999996
+Texas,Texas 14,14,48,4814,59.95,40.05
+Texas,Texas 15,15,48,4815,39.55,60.45
+Texas,Texas 16,16,48,4816,29.25,70.75
+Texas,Texas 17,17,48,4817,57.75,42.25
+Texas,Texas 18,18,48,4818,22.8,77.2
+Texas,Texas 19,19,48,4819,75.2,24.8
+Texas,Texas 20,20,48,4820,9.549999999999997,90.45
+Texas,Texas 21,21,48,4821,51.3,48.699999999999996
+Texas,Texas 22,22,48,4822,52.449999999999996,47.55
+Texas,Texas 23,23,48,4823,50.25,49.75
+Texas,Texas 24,24,48,4824,51.6,48.4
+Texas,Texas 25,25,48,4825,54.35,45.65
+Texas,Texas 26,26,48,4826,60.199999999999996,39.8
+Texas,Texas 27,27,48,4827,61.849999999999994,38.15
+Texas,Texas 28,28,48,4828,7.799999999999997,92.2
+Texas,Texas 29,29,48,4829,24.4,75.6
+Texas,Texas 30,30,48,4830,4.450000000000003,95.55
+Texas,Texas 31,31,48,4831,51.449999999999996,48.55
+Texas,Texas 32,32,48,4832,46.75,53.25
+Texas,Texas 33,33,48,4833,22.85,77.15
+Texas,Texas 34,34,48,4834,40.0,60.0
+Texas,Texas 35,35,48,4835,27.35,72.65
+Texas,Texas 36,36,48,4836,72.6,27.4
+Utah,Utah 1,01,49,4901,68.35,31.65
+Utah,Utah 2,02,49,4902,58.6,41.4
+Utah,Utah 3,03,49,4903,70.1,29.900000000000002
+Utah,Utah 4,04,49,4904,49.9,50.1
+Vermont,Vermont ,00,50,5000,28.4,71.6
+Virginia,Virginia 1,01,51,5101,55.2,44.8
+Virginia,Virginia 2,02,51,5102,48.9,51.1
+Virginia,Virginia 3,03,51,5103,0.0,100.0
+Virginia,Virginia 4,04,51,5104,36.7,63.300000000000004
+Virginia,Virginia 5,05,51,5105,53.3,46.7
+Virginia,Virginia 6,06,51,5106,59.8,40.2
+Virginia,Virginia 7,07,51,5107,49.0,51.0
+Virginia,Virginia 8,08,51,5108,23.7,76.3
+Virginia,Virginia 9,09,51,5109,65.2,34.8
+Virginia,Virginia 10,10,51,5110,43.8,56.2
+Virginia,Virginia 11,11,51,5111,27.9,72.1
+Washington,Washington 1,01,53,5301,40.7,59.3
+Washington,Washington 2,02,53,5302,14.350000000000001,85.65
+Washington,Washington 3,03,53,5303,52.7,47.3
+Washington,Washington 4,04,53,5304,62.8,37.2
+Washington,Washington 5,05,53,5305,54.8,45.2
+Washington,Washington 6,06,53,5306,36.1,63.9
+Washington,Washington 7,07,53,5307,16.4,83.6
+Washington,Washington 8,08,53,5308,47.6,52.4
+Washington,Washington 9,09,53,5309,16.049999999999997,83.95
+Washington,Washington 10,10,53,5310,38.5,61.5
+West Virginia,West Virginia 1,01,54,5401,64.6,35.4
+West Virginia,West Virginia 2,02,54,5402,55.5,44.5
+West Virginia,West Virginia 3,03,54,5403,56.4,43.6
+Wisconsin,Wisconsin 1,01,55,5501,56.15,43.849999999999994
+Wisconsin,Wisconsin 2,02,55,5502,0.0,100.0
+Wisconsin,Wisconsin 3,03,55,5503,40.3,59.7
+Wisconsin,Wisconsin 4,04,55,5504,22.999999999999996,77.0
+Wisconsin,Wisconsin 5,05,55,5505,62.0,38.0
+Wisconsin,Wisconsin 6,06,55,5506,55.5,44.5
+Wisconsin,Wisconsin 7,07,55,5507,60.75,39.25
+Wisconsin,Wisconsin 8,08,55,5508,63.7,36.3
+Wyoming,Wyoming ,00,56,5600,66.95,33.05
