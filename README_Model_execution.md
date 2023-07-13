@@ -1,4 +1,4 @@
-### Manual for the code 'Model_execution.py'
+# Manual for the code 'Model_execution.py'
 
 Running this script runs an example of the opinion formation simulation with choice of parameters.
 
@@ -19,6 +19,7 @@ Running this script runs an example of the opinion formation simulation with cho
 		1. y (vector, matrix): final opinions
 
 ===============================================================================
+
 2. type_natural_opinion(Num_ppl, Num_party, NAT_TYPE)*
 	Generates the natural opinions by calling the appropriate function. If the opinion is "Bigaussian", the mean, Delta, sd parameters have to be specified beforehand in the local environment. If Num_party is 2, NAT_TYPE can be 'Bigaussian' or 'Uniform', otherwise it can only be 'Uniform'. 'Uniform' draws the opinions from the appropriate simplex described in the manuscript's SI. 
 	INPUT:
