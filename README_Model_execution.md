@@ -6,7 +6,6 @@ Running this script runs an example of the opinion formation simulation with cho
 1. outcome
 2. type_natural_opinion
 
-===============================================================================
 ## Detailed description of the functions:
 
 1. outcome(x0, epsilon, W)
