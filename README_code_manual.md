@@ -56,8 +56,9 @@ Defines the vertices of the admissible opinion space.
 
 INPUT
 1. p (int): number of parties
+   
 OUTPUT
-2. V (matrix): vertices of the admissible opinion space
+1. V (matrix): vertices of the admissible opinion space
 
 <a id="gen-rand-perm-vect"></a>
 ### gen_rand_perm_vect(x)
