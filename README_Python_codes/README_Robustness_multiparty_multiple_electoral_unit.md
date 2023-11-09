@@ -18,6 +18,7 @@ The results are saved in a folder named 'Multi_States' and have a file named 'In
 4. [ELECTION_NEC](#ELECTION-NEC)
 5. [if __name__=="__main__"](#main)
 
+<a id="obustness-multiparty-multiple-electoral-unit"></a>
 ## Detailed description of the functions :
 
 <a id ="Nat-type"></a>
