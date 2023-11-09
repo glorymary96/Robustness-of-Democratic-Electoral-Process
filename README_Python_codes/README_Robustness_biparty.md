@@ -295,7 +295,7 @@ Function to initiate the computation of the robustness of the US using the histo
 
 <a id = "define-synthetic-country"></a>
 ### DEFINE_SYNTHETIC_COUNTRY()
-Function to initiate and computation of the robustness of electoral system by defining your own synthetic country. By running this function, you will be asked for each of the initialization required, and by providing them, you can find the robustness of electoral system using the specified synthetic country. You can as well give the specification of an exisiting country, like Switzerland, Germany and so on.
+Function to initiate the computation of the robustness of electoral system by defining your own synthetic country. By running this function, you will be asked for each of the initialization required, and by providing them, you can find the robustness of electoral system using the specified synthetic country. You can as well give the specification of an exisiting country, like Switzerland, Germany and so on.
 
 
 <a id = "main"></a>
