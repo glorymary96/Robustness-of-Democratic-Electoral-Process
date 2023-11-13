@@ -122,8 +122,8 @@ The main function for all the initialization and function calls to initiate the 
 The final results are saved in a folder named 'MULT_ORD'.
 
 1. Multiparty_ordering_'+str(Num_party)+'.npz' : The file with all necessary details, named as per the number of parties involved in the election. The files contain,
-   1. Effort : the effort needed to change the election outcome using Plurality system (matrix of dimension (Number of simulations, number of $\epsilon$ values, number of parties-1))
+   1. Effort : the effort needed to change the election outcome using Plurality system (matrix of dimension (Number of simulations, number of $\epsilon$ values, number of parties-1)).
    2. e_range : $\epsilon$ values (a vector of size number of $\epsilon$ values considered).
-   3. NUM_VOTES : number of votes of each party without any external influence using Plurality system(matrix of dimension (Number of simulations, number of $\epsilon$ values, number of parties))
-   4. NUM_AGENTS_INFLUENCED : the number of agents influenced needed to change the election outcome using the Plurality system (matrix of dimension (Number of simulations, number of $\epsilon$ values, number of parties-1))
+   3. NUM_VOTES : number of votes of each party without any external influence using Plurality system(matrix of dimension (Number of simulations, number of $\epsilon$ values, number of parties)).
+   4. NUM_AGENTS_INFLUENCED : the number of agents influenced needed to change the election outcome using the Plurality system (matrix of dimension (Number of simulations, number of $\epsilon$ values, number of parties-1)).
   
