@@ -28,15 +28,4 @@ The system’s robustness as a function of the openness of society varies from a
 Proportional electoral systems are generally the most robust irrespective of the number of parties in the systems. The electoral system for a multi-partite system is more robust when there are moderate interaction between the agents. Thus making the electoral system more resilient to external attack from
 foreign agencies or social media information.
 
-Summary of the files
-
-1. HOR_DATA : Contains the data of House of Representative elections (2012-2020) for validation and case study and geodata for the plots.
-2. Model_execution.py : A simple execution of the model.
-3. Even_distribution_val.py : Program for the validation of the model using House of Representative elections (2012-2020) of United States.
-4. Polarization_bias.py : Program to study the effection of polarization and bias on the effort needed to change the election outcome.
-5. Robustness_biparty.py : Program to evaluate the robustness of different electoral system to external influences for a two-party electoral system for a generic case and case study on US House of Representative elections.
-6. Nat_opn_generator.py : Program to generate the natural opinion with equal density and volume for each party.
-7. Strategies_w0.py : Program to arbitarily define the influence vector supporting each of the party.
-8. Robustness_multiparty_single_electoral_unit.py : Program to implement the robustness of the electoral system in a single electoral unit for different values of confidence bound parameter.
-9. Electoral_system_function.py : A program with functions to calculate the effort needed to change the election outcome following different electoral systems.
-10. Robustness_multiparty_multiple_electoral_unit.py : Program to find the effort needed to change the election outcome following different electoral systems using different sub-programs within the program.
+#### The folder 'Python codes' contains all the Python codes used to generate the results, and 'README_Python_codes' contains the detailed description of each Python code. The results generated through the simulations are saved in the folder 'DATA'. The file named 'Data_analysis.ipynb' in the folder 'Python codes' can be used to generate all the figures in the paper.
