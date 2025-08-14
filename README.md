@@ -20,19 +20,18 @@ This repository implements a computational social science framework to evaluate 
 ## 📂 Repository Structure
 ```
 Robustness-of-Democratic-Electoral-Process/
-├── DATA/                          # Simulation outputs and input datasets
-├── Python codes/                  # All code modules and utilities
-│   ├── Data_analysis.ipynb        # Generates figures & analysis in the paper
-│   ├── model.py                   # Opinion dynamics + influence simulation
-│   ├── electoral_systems.py       # Electoral outcome functions
-│   └── utils.py                   # Data loaders and helper functions
-├── README_Python_codes/           # Module-by-module usage instructions
-└── README.md                      # This overview
+├── DATA/                                   # Simulation outputs and input datasets
+├── Python codes/                           # All code modules and utilities
+│   ├── Data_analysis.ipynb                 # Generates figures & analysis in the paper
+│   ├── Model_execution.py                  # Simple model execution
+│   ├── Electoral_system_function.py        # Electoral outcome functions for different electoral systems
+│   └── Other files..                       # Other sub files (read README_summary_files)
+├── README_Python_codes/                    # Module-by-module usage instructions
+└── README.md                               # Overview of the project
 ```
 
 ## 🎯 Getting Started
 
-## 🛠 Installation
 
 1. **Clone the repository**:
 
